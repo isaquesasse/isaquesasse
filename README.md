@@ -2,7 +2,7 @@
 
 • 👨‍💼 Working at <a href="https://www.wisecities.io/pt/"><img align="center" alt="Wise Cities" height="40" width="60" src="https://sys.wisecities.io/assets/images/logos/logoWhite.svg"/></a>
 <br>
-• 🎓 Studying Systems Analysis and Development at <a href="https://www.univille.edu.br">Univille<a>
+• 🎓 Studying Systems Analysis and Development at <a href="https://www.univille.edu.br"><img align="center" alt="HTML5" height="40" width="40" src="https://i.pinimg.com/originals/05/ce/23/05ce23e975a0dd33e9fb54bc65116429.png"/><a>
 <br>
 • 📚 I'm looking to learn a bit of everything in programming
 <br>
