@@ -1,10 +1,9 @@
 ### Hello! I'm Isaque.
 
-  * 👨‍💼 Working at <a href="https://www.wisecities.io/pt/"><img align="center" alt="Wise Cities" height="40" width="60" src="https://sys.wisecities.io/assets/images/logos/logoWhite.svg"/></a>
-  <br>
-  * 🎓 Studying Systems Analysis and Development at <a href="https://www.univille.edu.br">Univille<a>
-  <br>
-  * 📚 I'm looking to learn a bit of everything in programming
+* 👨‍💼 Working at <a href="https://www.wisecities.io/pt/"><img align="center" alt="Wise Cities" height="40" width="60" src="https://sys.wisecities.io/assets/images/logos/logoWhite.svg"/></a>
+* 🎓 Studying Systems Analysis and Development at <a href="https://www.univille.edu.br">Univille<a>
+* 📚 I'm looking to learn a bit of everything in programming
+  
   <br>
   <br>
 
