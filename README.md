@@ -4,7 +4,7 @@
 <br>
 🎓 Studying Systems Analysis and Development at <a href="https://www.univille.edu.br"><img align="center" alt="HTML5" height="30" width="35" src="https://i.pinimg.com/originals/05/ce/23/05ce23e975a0dd33e9fb54bc65116429.png"/><a>
 <br>
-📚 I'm looking to learn a bit of everything in programming
+📚 I'm looking to learn a bit of everything about programming
 <br>
 <br>
 <div>
