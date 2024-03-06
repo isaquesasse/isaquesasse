@@ -19,11 +19,13 @@
     * 🛠️ Frameworks that I use: <a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" alt="Angular" height="40" width="40" src="https://static-00.iconduck.com/assets.00/file-type-angular-icon-1907x2048-tobdkjt1.png"/></a>
     <a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" alt="React" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/></a>
   </div>
+   <br>
+   <br>
 </div>
 
 
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=isaquesasse&theme=transparent&show_icons=true"/>
- <br>
+      
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaquesasse&size_weight=0.5&theme=transparent&count_weight=0.5"/>
 </div>
