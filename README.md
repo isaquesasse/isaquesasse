@@ -15,9 +15,10 @@
     <a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" alt="TypeScript" height="30" width="30" src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png"/></a>
     <a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" alt="SQL" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/3161/3161133.png"/></a>
   </div>
+   <br>
   <div>
-    * 🛠️ Frameworks that I use: <a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" alt="Angular" height="40" width="40" src="https://static-00.iconduck.com/assets.00/file-type-angular-icon-1907x2048-tobdkjt1.png"/></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" alt="React" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/></a>
+    * 🛠️ Frameworks that I use: <a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" alt="Angular" height="30" width="30" src="https://static-00.iconduck.com/assets.00/file-type-angular-icon-1907x2048-tobdkjt1.png"/></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" alt="React" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/></a>
   </div>
    <br>
    <br>
