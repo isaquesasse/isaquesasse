@@ -1,7 +1,7 @@
 ### Hello! I'm Isaque.
 
 <div>
-  * 👨‍💼 Working at <a href="https://www.wisecities.io/pt/"><img align="top" alt="HTML5" height="30" width="50" src="https://sys.wisecities.io/assets/images/logos/logoWhite.svg"/></a>
+  * 👨‍💼 Working at <a href="https://www.wisecities.io/pt/"><img align="top" alt="HTML5" height="40" width="60" src="https://sys.wisecities.io/assets/images/logos/logoWhite.svg"/></a>
   <br>
   * 🎓 Studying Systems Analysis and Development at <a href="https://www.univille.edu.br">Univille<a>
   <br>
