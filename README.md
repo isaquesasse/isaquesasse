@@ -7,6 +7,7 @@
   <br>
   * 📚 I'm looking to learn a bit of everything in programming
   <br>
+   <br>
   <div>
     * 💻 Languages that I use: <a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" alt="JavaScript" height="40" width="40" src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png"/></a>
     <a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" alt="HTML5" height="40" width="40" src="https://media.stacktips.com/media/uploads/categories/html5.png"/></a>
