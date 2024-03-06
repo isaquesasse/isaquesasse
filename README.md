@@ -10,7 +10,7 @@
   <div>
     * 💻 Languages that I use: <a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" alt="JavaScript" height="40" width="40" src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png"/></a>
     <a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" alt="HTML5" height="40" width="40" src="https://media.stacktips.com/media/uploads/categories/html5.png"/></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" alt="CSS3" height="40" width="40" src="https://www.svgrepo.com/show/349330/css3.svg"/></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" alt="CSS3" height="35" width="35" src="https://www.svgrepo.com/show/349330/css3.svg"/></a>
     <a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" alt="Java" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png"/></a>
     <a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" alt="TypeScript" height="30" width="30" src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png"/></a>
     <a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" alt="SQL" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/3161/3161133.png"/></a>
