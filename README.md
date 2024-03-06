@@ -1,6 +1,5 @@
 ### Hello! I'm Isaque.
 
-<div>
   * 👨‍💼 Working at <a href="https://www.wisecities.io/pt/"><img align="center" alt="Wise Cities" height="40" width="60" src="https://sys.wisecities.io/assets/images/logos/logoWhite.svg"/></a>
   <br>
   * 🎓 Studying Systems Analysis and Development at <a href="https://www.univille.edu.br">Univille<a>
@@ -8,6 +7,8 @@
   * 📚 I'm looking to learn a bit of everything in programming
   <br>
   <br>
+
+<div>
   <div>
     * 💻 Languages that I use: <a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" alt="JavaScript" height="40" width="40" src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png"/></a>
     <a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" alt="HTML5" height="40" width="40" src="https://media.stacktips.com/media/uploads/categories/html5.png"/></a>
