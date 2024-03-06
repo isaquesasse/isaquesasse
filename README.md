@@ -29,3 +29,9 @@
       
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaquesasse&size_weight=0.5&theme=transparent&hide_progress=true"/>
 </div>
+
+<div>
+ * 🌐 Social Media
+ <br>
+ <a rel="noopener noreferrer nofollow" href="https://www.instagram.com/isaque_sasse/"><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</div>
